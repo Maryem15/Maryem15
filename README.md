@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Maryem! 👋
 
-<!--
-**Maryem15/Maryem15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Computer Science Engineering Student at Chennai Institute of Technology.
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning C++ and Data Structures & Algorithms.
+- 💻 Practising problem-solving through LeetCode.
+- 🤖 Exploring Artificial Intelligence.
+- 🔧 Interested in Hardware Components and Networking.
+- 🚀 Always curious to learn and build new things.
+
+Skills
+
+- C++ (Fundamentals)
+- Python (Basics)
+- Git & GitHub
+
+Certifications
+
+- Cisco C++ Essentials 1
+- AI Certifications
+
+Connect With Me
+
+- Linkedin https://www.linkedin.com/in/maryem-rakhshaan-s-846754436?utm_source=share_via&utm_content=profile&utm_medium=member_android
